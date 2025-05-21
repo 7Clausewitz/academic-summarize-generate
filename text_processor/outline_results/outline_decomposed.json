@@ -1,0 +1,40 @@
+{
+  "blocks": [
+    {
+      "title": "Introduction to Non-Invasive Embolization-Based Multimodal Therapies",
+      "content": "Research background including the definition and clinical significance of non-invasive embolization therapy; advantages of multimodal combination therapies (synergistic effects, reduced side effects, enhanced efficacy); purpose and structure of the review.",
+      "keywords": [
+        "non-invasive embolization",
+        "multimodal therapy",
+        "clinical significance"
+      ]
+    },
+    {
+      "title": "Key Strategies of Multimodal Combination Therapies",
+      "content": "Photodynamic combination therapy (PDT-based combinations), chemotherapy-based combination therapy, and magnetic hyperthermia combination therapy as key strategies for non-invasive embolization-based multimodal treatments.",
+      "keywords": [
+        "photodynamic therapy",
+        "chemotherapy",
+        "magnetic hyperthermia"
+      ]
+    },
+    {
+      "title": "Challenges and Future Directions",
+      "content": "Technical bottlenecks (e.g., precise controlled release, multimodal imaging guidance) and concerns regarding biocompatibility and long-term safety in non-invasive embolization-based multimodal therapies.",
+      "keywords": [
+        "technical bottlenecks",
+        "biocompatibility",
+        "long-term safety"
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "content": "Summary of the literature review on non-invasive embolization-based multimodal combination therapies, synthesizing key findings and overarching implications.",
+      "keywords": [
+        "literature review",
+        "research synthesis",
+        "therapeutic implications"
+      ]
+    }
+  ]
+}

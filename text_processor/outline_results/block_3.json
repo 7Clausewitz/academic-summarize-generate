@@ -1,0 +1,296 @@
+{
+  "block_index": 2,
+  "block_info": {
+    "title": "Challenges and Future Directions",
+    "content": "Technical bottlenecks (e.g., precise controlled release, multimodal imaging guidance) and concerns regarding biocompatibility and long-term safety in non-invasive embolization-based multimodal therapies.",
+    "keywords": [
+      "technical bottlenecks",
+      "biocompatibility",
+      "long-term safety"
+    ]
+  },
+  "original_keywords": [
+    "technical bottlenecks",
+    "biocompatibility",
+    "long-term safety"
+  ],
+  "enhanced_keywords": [
+    "technical bottlenecks",
+    "precise controlled release",
+    "multimodal imaging guidance",
+    "biocompatibility",
+    "long-term safety",
+    "non-invasive embolization",
+    "multimodal therapies"
+  ],
+  "abstract_results": [
+    {
+      "index": 3,
+      "text": "标题: Recent advances in smart nanoplatforms for tumor non-interventional embolization therapy\n摘要: Tumor embolization therapy has attracted great attention due to its high efficiency in inhibiting tumor growth by cutting off tumor nutrition and oxygen supply by the embolic agent.Although transcatheter arterial embolization (TAE) is the mainstream technique in the clinic, there are still some limitations to be considered, especially the existence of high risks and complications.Recently, nanomaterials have drawn wide attention in disease diagnosis, drug delivery, and new types of therapies, such as photothermal therapy and photodynamic therapy, owing to their unique optical, thermal, convertible and in vivo transport properties.Furthermore, the utilization of nanoplatforms in tumor noninterventional embolization therapy has attracted the attention of researchers.Herein, the recent advances in this area are summarized in this review, which revealed three different types of nanoparticle strategies: (1) nanoparticles with active targeting effects or stimuli responsiveness (ultrasound and photothermal) for the safe delivery and responsive release of thrombin; (2) tumor microenvironment (copper and phosphate, acidity and GSH/H 2 O 2 )-responsive nanoparticles for embolization therapy with high specificity; and (3) peptide-based nanoparticles with mimic functions and excellent biocompatibility for tumor embolization therapy.The benefits and limitations of each kind of nanoparticle in tumor non-interventional embolization therapy will be highlighted.Investigations of nanoplatforms are undoubtedly of great significance, and some advanced nanoplatform systems have arrived at a new height and show potential applications in practical applications.",
+      "similarity": 0.7450605924632488,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "long-term safety",
+        "technical bottlenecks",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 0,
+      "text": "标题: Selective Thrombosis of Tumor for Enhanced Hypoxia-Activated Prodrug Therapy\n摘要: Figure 3.In vitro targeting and toxicity of Th-TPZ@MOF-FA.A) CLSM images and 3D confocal fluorescence images and B) flow cytometry analyses of HepG2 cells incubated with Th-TPZ@MOF-PEG (30 mg L -1 ) and Th-TPZ@MOF-FA (30 mg L -1 ) for 4 h: nuclei stained with Hoechst 33342 (Hoechst, blue signal) and nanocarriers labeled by FAM (green signal).Scale bars: 10 m.C) Calcein AM/propidium iodide (PI) staining of HepG2 cells treated with Th-TPZ@MOF-FA (50 mg L -1 ) at different conditions (pH 7.4 and 6.5) under normoxia and hypoxia.Calcein AM: green signal, PI: red signal.Scale bars: 50 m.D) Cell viability of Th-TPZ@MOF-FA at pH 7.4 and 6.5 under normoxic and hypoxic conditions.E) Fluorescein-annexin V and PI staining assays of HepG2 cells treated with different formulations at pH 7.4 and 6.5 under",
+      "similarity": 0.7322530492243047,
+      "metadata": {
+        "journal": "Advanced Materials",
+        "year": "2021",
+        "author": "Ma"
+      },
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "long-term safety",
+        "technical bottlenecks",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 1,
+      "text": "标题: Biomaterials-Mediated Tumor Infarction Therapy\n摘要: Agents for tumor vascular infarction are recently developed therapeutic agents for the vascular destruction of tumors.They can suppress the progression of the tumor by preventing the flow of nutrition and oxygen to its tissues.Agents of tumor vascular infarction can be divided into three categories according to the differences in their pathways of action: those that use the thrombin-activating pathway, fibrin-activating pathway, and platelet-activating pathway.However, poor targeting ability, low permeation, and potential side-effects restrict the development of the corresponding drugs.Biomaterials can subtly avoid these drawbacks to suppress the tumor.In this article, the authors summarize currently used biomaterials for tumor infarction therapy with the goal of identifying its mechanism, and discuss outstanding deficiencies in methods of this kind.",
+      "similarity": 0.7284254802856718,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "long-term safety",
+        "technical bottlenecks",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 2,
+      "text": "标题: Nanomaterial-Based Antivascular Therapy in the Multimodal Treatment of Cancer\n摘要: Abnormal tumor vasculature and a hypoxic tumor microenvironment (TME) limit the effectiveness of conventional cancer treatment.Recent studies have shown that antivascular strategies that focus on antagonizing the hypoxic TME and promoting vessel normalization effectively synergize to increase the antitumor efficacy of conventional therapeutic regimens.By integrating multiple therapeutic agents, well-designed nanomaterials exhibit great advantages in achieving higher drug delivery efficiency and can be used as multimodal therapy with reduced systemic toxicity.In this review, strategies for the nanomaterial-based administration of antivascular therapy combined with other common tumor treatments, including immunotherapy, chemotherapy, phototherapy, radiotherapy, and interventional therapy, are summarized.In particular, the administration of intravascular therapy and other therapies with the use of versatile nanodrugs is also described.This review provides a reference for the development of multifunctional nanotheranostic platforms for effective antivascular therapy in combined anticancer treatments.",
+      "similarity": 0.7243326875547889,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "long-term safety",
+        "technical bottlenecks",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 5,
+      "text": "标题: Emerging Biomaterials-Based Strategies for Inhibiting Vasculature Function in Cancer Therapy\n摘要: P(n-isopropylacrylamide-co-butyl methylacrylate) Iohexol No Rabbit VX2 liver tumor [24] Iohexol DOX Rabbit renal artery [15] Iohexol No Rabbit renal artery and VX2 liver tumor [26] P(n-acryloyl glycinamide-co-acrylamide) Iohexol No Rabbit renal artery [25] P(n-isopropylacrylamide-co-acrylic acid) Gold nanoparticles No Rabbit renal artery and VX2 liver tumor [55] P(n-isopropylacrylamide-co-butyl methylacrylate) Gold nanoparticles",
+      "similarity": 0.7198245477699863,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 4,
+      "text": "标题: Smart Nanotherapeutic Targeting of Tumor Vasculature\n摘要: The past decades have witnessed the development of a field dedicated to targeting tumor vasculature for cancer therapy.In contrast to conventional chemotherapeutics that need to penetrate into tumor tissues for killing tumor cells, the agents targeting tumor vascular system have two major advantages: direct contact with vascular endothelial cells or the blood and less possibility to induce drug resistance because of high gene stability of endothelial cells.More specifically, various angiogenesis inhibitors (AIs) and vascular disrupting agents (VDAs) that block tumor blood supply to inhibit tumor progression, some of which have been applied clinically, have been described.However, off-target effects and high effective doses limit the utility of these formulations in cancer patients.Thus, new strategies with improved therapeutic efficacy and safety are needed for tumor vessel targeting therapy.With the burgeoning developments in nanotechnology, smart nanotherapeutics now offer unprecedented potential for targeting tumor vasculature.Based on specific structural and functional features of the tumor vasculature, a number of different nanoscale delivery systems have been proposed for cancer therapy.In this Account, we summarize several distinct strategies to modulate tumor vasculature with various smart nanotherapeutics for safe and effective tumor therapy developed by our research programs.Inspired by the blood coagulation cascade, we generated nanoparticle-mediated tumor vessel infarction strategies that selectively block tumor blood supply to starve the tumor to death.By specifically delivering thrombin loaded DNA nanorobots (Nanorobot-Th) into tumor vessels, an intratumoral thrombosis is triggered to induce vascular infarction and, ultimately, tumor necrosis.Mimicking the coagulation cascade, a smart polymeric nanogel achieves permanent and peripheral embolization of liver tumors.Considering the critical role of platelets in maintaining tumor vessel integrity, a hybrid (PLP-D-R) nanoparticle selectively depleting tumor-associated platelets (TAP) to boost tumor vessel permeability was developed for enhancing intratumoral drug accumulation.In addition, benefiting from a better understanding of the molecular and cellular underpinnings of vascular normalization, several tumor acidity responsive nanotherapeutics, encapsulating therapeutic peptides, and small interfering RNA were developed to correct the abnormal features of the tumor vasculature.This made the tumor vessels more efficient for drug delivery.While we are still exploring the mechanisms of action of these novel nanoformulations, we expect that the strategies summarized here will offer a promising platform to design effective next-generation nanotherapeutics against cancer and facilitate the clinical translation of smart nanotherapeutics that target tumor vasculature.",
+      "similarity": 0.7007807514909321,
+      "metadata": {},
+      "source_keyword": "long-term safety",
+      "source_keywords": [
+        "long-term safety",
+        "technical bottlenecks"
+      ]
+    }
+  ],
+  "fulltext_results": [
+    {
+      "index": 106,
+      "text": "Compared with traditional therapeutic strategies that target tumor cells, tumor embolization therapy exhibits unique advantages, such as the ability to efficiently induce a large amount of tumor cell death in a short period of time, no requirement for contact between the drug and tumor cells, and reduced drug resistance of tumor cells.With the development of nanotechnology, noninvasive embolization therapy based on the development of nanomaterials has shown the following advantages in overcoming the limitations of clinical transcatheter arterial embolization:",
+      "similarity": 0.8261431596294466,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "multimodal imaging guidance",
+        "multimodal therapies",
+        "technical bottlenecks",
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 171,
+      "text": "Dramatic developments in tumor vascular blocking strategy have been witnessed in the past decades.Although therapy of TAE or anti-vascular agents have been endorsed for clinical trials, they are not currently a front-line treatment alternative.Recent progress in tumor therapy opens up highly promising alternatives for tumor vascular blocking strategies.We summarized the following three aspects: 1) hydrogels, undergoing chemically or physically induced water-gel transition, might physically embolize tumor vascular under the guidance of imaging technology.More importantly, hydrogel based strategy demonstrated lower toxicity and easier operation than solid embolic agents, while it has a stronger embolic effect in comparison with that of liquid embolic agents.Furthermore, by coloading with chemotherapeutic or trackable agents, hydrogel based embolism strategy could be combined with localized chemotherapy or even with real-time monitoring potentials for better theranostic designs; 2) biomaterials with biologically active molecules, including CREKA peptides, thrombin, pNPs, in situ SiO 2 aggregation, could selectively embolize tumor vessels by physical or biological coagulation.It is worth mentioned that this approach can achieve targeted embolization through intravenous injection merely, exhibiting easier delivery option and boarder applicability; 3) nanotechnology-mediated antivascular therapies, including angiogenesis inhibiting, tumor vascular disruption therapy, as well as multifunctional nanoplatforms integrated with chemotherapy, phototherapy, or immunotherapy, could also achieve superior therapeutic outcomes in comparison with monotherapy.",
+      "similarity": 0.8116125803531251,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "multimodal imaging guidance",
+        "multimodal therapies",
+        "technical bottlenecks",
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 152,
+      "text": "Embolization has been proposed for clinical treatment for a long time, but the traditional embolic agents have various drawbacks, which hinder the popularization of this treatment strategy in liver cancer treatment.Although in situ hydrogel-mediated transarterial embolization can greatly improve the efficacy of solid tumors such as liver cancer, but it may cause multiple complications and should not be used for cancer of some cavity organs such as bowel and bladder.Furthermore, considering the complexity of the surgical procedure, it is necessary to find a new type of safe and effective biological embolic agent.Compared with in situ hydrogel-mediated transarterial embolization, another hopeful tumor vascular blocking strategy involving nanotherapeutic agents that induce tumor cell death by specifically blocking tumor supply has been proposed.This strategy, which involves targeted embolization through intravenous injection, is expected to be a more promising alternative to transarterial vascular embolization owing to its simple, non-surgical treatment and its applicability to a wider range of tumors.",
+      "similarity": 0.8115199841758911,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 110,
+      "text": "Tumor non-interventional embolization therapy eliminates tumor cells in a unique way, showing great promise.With the boom in the development of nanotechnology, smart nanotherapeutics have offered unprecedented potential for non-interventional embolization therapy.By taking advantage of nanotechnology, it has gradually become a trend to develop targeted non-interventional embolization therapy strategies with good tumor targeting and fewer toxic side effects.In future research, to achieve desirable non-interventional embolization therapy, nanoplatforms can be functionally designed based on the specific structural and functional characteristics of the tumor vasculature and modified with reference to the required medical environment to develop integrated medical embolization biomaterials with different functions or multiple functions.These new medical biomaterials are of great significance to the diagnosis and treatment of different types of tumors.",
+      "similarity": 0.8095462058407685,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "multimodal imaging guidance",
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 76,
+      "text": "In tumor embolization therapy, the embolic material determines the effect of embolization.The embolization material used in embolization therapy should have the following characteristics: <ref>Nagy, J. Heterogeneity of the tumor vasculature. Semin Thromb Hemost. 2010;36(03):321-331.</ref> no toxicity or side effects; <ref>Holash, J and Wiegand, S and Yancopoulos, G. New model of tumor angiogenesis: dynamic balance between vessel regression and growth mediated by angiopoietins and VEGF. Oncogene. 1999;18(38):5356-5362.</ref> no rejection reaction or good biocompatibility; (3) easy visualization of the operation; and (4) long embolization time and no reopening phenomenon.The development of novel embolic materials is crucial for the further development of embolization therapy.In recent years, with the vigorous development of nanotechnology, nanomaterials have shown great potential in the field of biomedicine due to their unique optical, thermal, magnetic and in vivo transport properties, and they have provided more efficient and safer strategies for tumor treatments <ref>Fan, M. Ultrasmall gold nanoparticles in cancer diagnosis and therapy. Theranostics. 2020;10(11):4944-4957.</ref><ref>Gao, X. Targeting nanoparticles for diagnosis and therapy of bone tumors: opportunities and challenges. Biomaterials. 2020;265:120404.</ref><ref>Zhou, L and Wang, H and Li, Y. Stimuli-responsive nanomedicines for overcoming cancer multidrug resistance. Theranostics. 2018;8(4):1059-1074.</ref>.Nanotechnology offers unprecedented potential for tumor vascular embolization since researchers have used nanotechnology to safely deliver agents with coagulation activity or design responsive nanoplatforms to achieve highly specific embolization of tumor blood vessels.In this review, we summarize the nanoplatforms currently used for tumor non-interventional vascular embolization, mainly including different nanocarriers with the properties of high loading, safe delivery and responsive release of procoagulant substances for tumor non-interventional embolization therapy; different stimuli-responsive nanoparticles for highly specific tumor embolization therapy; and mimic nanomaterials based on peptides for precise embolization (Scheme 1).We will start from the embolization mechanism of various nanoplatforms and explore their important roles in inducing tumor embolization therapy and reducing toxic side effects.In addition, we will further discuss the application prospects and challenges of nanoplatforms in clinical tumor embolization therapy.",
+      "similarity": 0.8042683211601317,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 129,
+      "text": "It is also worth mentioned that the clinical usage of these tumor vasculature targeting reagents has been limited, due to their undesired sub-targeting effects and high dosage. <ref>Li, Z and Di, C and Li, S and Yang, X and Nie, G. Acc. Chem. Res. 2019;52:2703.</ref>In this case, novel strategies for tumor vascular targeting are in urgent needs to enhance therapeutic efficiency within safety consideration.",
+      "similarity": 0.7769625964594506,
+      "metadata": {},
+      "source_keyword": "multimodal imaging guidance",
+      "source_keywords": [
+        "multimodal imaging guidance",
+        "long-term safety",
+        "technical bottlenecks",
+        "precise controlled release"
+      ]
+    },
+    {
+      "index": 175,
+      "text": "In conclusion, biomaterials-mediated vascular blockade therapies focused on smart polymer hydrogel embolization agents, anti-vascular therapies, and bioactive nanoparticles through selective embolization of tumor vessels have been summarized.And it has been widely believed that the biomaterials-mediated vascular blockade therapies could play important role in localized tumor treatment.However, there are still some challenges in this field, including 1) to achieve nanomedicine designs with highly controllable targeting behaviors or vascular blockage monitoring; or 2) to seek robust and highly biocompatible biomaterials as embolization agents, without considering the complicated toxicity issue.Last but not least, it is hoped that the strategies summarized in this review could provide ideas for the future clinical translation of smart nanomedicines with the ability to target the tumor vascular system.",
+      "similarity": 0.7710283733268718,
+      "metadata": {},
+      "source_keyword": "multimodal imaging guidance",
+      "source_keywords": [
+        "multimodal imaging guidance",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 105,
+      "text": "Polypeptides have inherent bioactivity, biodegradability and biocompatibility, as well as adjustable structure and abundant functions, which exhibit broad prospects in tumor therapy.However, polypeptides often have high susceptibility to proteolysis, and it is necessary to modify the peptide to increase its in vivo stability to better apply it to tumor treatment.",
+      "similarity": 0.767136924529923,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "long-term safety",
+        "multimodal therapies",
+        "technical bottlenecks",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 161,
+      "text": "products containing Mg 2+ , H 2 O, and SiO 2 showed good biocompatibility.Significantly, the content of O 2 dropped sharply after ten minutes of MS NPs injection and retained for three hours, which presented almost completely elimination of O 2 after MS NPs treatment, indicating that the effective deoxygenation of nanoparticles could achieve tumor treatment effects.",
+      "similarity": 0.7621949124510103,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "long-term safety",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 88,
+      "text": "With further research, different types of drug delivery systems (DDSs) based on organic or inorganic nanomaterials could be applied in loading substances with coagulant activity for tumor embolization therapy.Four main factors should be considered in the design of these DDSs:",
+      "similarity": 0.7528116795554428,
+      "metadata": {},
+      "source_keyword": "precise controlled release",
+      "source_keywords": [
+        "precise controlled release"
+      ]
+    },
+    {
+      "index": 128,
+      "text": "Corresponding Authors *G.N.Tel: +86-10-82545529.E-mail: niegj@nanoctr.cn.*X.Y.Tel: +86-27-87792234.E-mail: yangxl@hust.edu.cn.*S.L. Tel: +86-10-82545662.E-mail: lisuping@nanoctr.cn.ORCID Zifu Li: 0000-0001-6387-4854 Suping Li: 0000-0002-0294-8861",
+      "similarity": 0.7511324771753375,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "long-term safety",
+        "technical bottlenecks",
+        "precise controlled release",
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 46,
+      "text": "(1) High cost: Regardless of whether peptides or nanorobots are used, it is important to ensure that the cost of treatment is acceptably low.(2) Rapid metabolism of biomaterials: In addition to not producing immune resistance to the human body, biological materials can be degraded in the body without producing harmful substances.However, they are quickly metabolized.Extending their duration of circulation in the body by slowing down their metabolism requires more research.",
+      "similarity": 0.7506213123322218,
+      "metadata": {},
+      "source_keyword": "biocompatibility",
+      "source_keywords": [
+        "biocompatibility"
+      ]
+    },
+    {
+      "index": 89,
+      "text": "(1) The desirable nano DDSs should have appropriate diameter, morphology and surface modification; therefore, high drug loading efficacy, long blood circulation and efficient drug accumulation in the tumor site after intravenous injection could be achieved.<ref>Holash, J and Wiegand, S and Yancopoulos, G. New model of tumor angiogenesis: dynamic balance between vessel regression and growth mediated by angiopoietins and VEGF. Oncogene. 1999;18(38):5356-5362.</ref> The designed nano DDSs should have a good protective effect on the loaded drug, preventing its premature release during the blood circulation, and can achieve responsive and rapid",
+      "similarity": 0.747406236243081,
+      "metadata": {},
+      "source_keyword": "precise controlled release",
+      "source_keywords": [
+        "precise controlled release"
+      ]
+    },
+    {
+      "index": 99,
+      "text": "Given the detailed understanding of the difference between the TME and normal tissue, TME stimulusresponsive nanoparticles show great advantages in tumor embolization therapy, including enhancing therapeutic specificity and reducing side effects.To fulfill the roles of nanoparticles in tumor embolization therapy, endogenous stimuli-responsive nanoparticles should be designed to overcome the limitation of tumor heterogeneity.More endogenous stimulus factors, such as enzymes, hypoxia, or angiogenesis, can be exploited.Furthermore, considering that some of the stimuli may not be enough to trigger drug release or morphological transition of nanoparticles, the sensitivity of these nanoparticles should be improved.",
+      "similarity": 0.7425079147106233,
+      "metadata": {},
+      "source_keyword": "precise controlled release",
+      "source_keywords": [
+        "precise controlled release"
+      ]
+    },
+    {
+      "index": 69,
+      "text": "Vascular therapy combined with interventional therapy, such as TAE, can achieve the long-term occlusion of tumor blood vessels and prevent tumor recurrence and metastasis.Anti-angiogenic drugs can also inhibit VEGF overexpression after TAE treatment and improve sensitivity to the heat generated by RFA.",
+      "similarity": 0.7355843446120551,
+      "metadata": {},
+      "source_keyword": "multimodal therapies",
+      "source_keywords": [
+        "multimodal therapies"
+      ]
+    },
+    {
+      "index": 164,
+      "text": "Chemotherapy drugs are still the most direct and common treatment means for tumor therapy, which can kill tumor peripheral cells with rich blood vessels.Meanwhile, anti-vascular drugs mainly lead to tumor necrosis by inhibiting or destroying tumor blood vessels.The combination of these two therapeutic strategies has also been widely demonstrated to be feasible by many studies, which will be discussed below.",
+      "similarity": 0.7352271528649131,
+      "metadata": {},
+      "source_keyword": "multimodal therapies",
+      "source_keywords": [
+        "multimodal therapies"
+      ]
+    },
+    {
+      "index": 18,
+      "text": "To evaluate the potential toxicity of these samples in vivo, the physiological morphology of the main organs (i.e., heart, liver, spleen, lungs, and kidneys) in each group after the treatments was assessed by H&E staining (Figure S23, Supporting Information).It should be noted that, although acute blood clotting occurred in lung at 24 h post injection, the H&E staining results showed that the nanosystem did not cause detectable damage to the major organs.There was no pathological lesion in all tissues, implying their negligible side effect.Complete blood chemistry tests were also performed (Figure S24, Supporting Information).The values of common parameters including white blood cell, red blood cell, lymph, glutamic pyruvate transaminase (ALT), mean corpuscular volume, platelet count (PLT), thrombocytocrit (PCT), aspartate aminotransferase (AST), granulocyte, monocyte (Mon%), hemoglobin (HGB) and creatinine (CR) were all within the normal ranges, suggesting that the present therapeutic strategy could be tolerated by mice.All together, these data indicate good safety of combining vascular occlusion with hypoxic prodrug chemotherapy in vivo.",
+      "similarity": 0.7225644747792889,
+      "metadata": {
+        "journal": "Advanced Materials",
+        "year": "2021",
+        "author": "Ma",
+        "title": "Ma Selective Thrombosis of Tumor for Enhanced Hypoxia‐Activated Prodrug Therapy"
+      },
+      "source_keyword": "long-term safety",
+      "source_keywords": [
+        "long-term safety"
+      ]
+    }
+  ]
+}

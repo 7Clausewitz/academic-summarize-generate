@@ -1,0 +1,282 @@
+{
+  "block_index": 1,
+  "block_info": {
+    "title": "Key Strategies of Multimodal Combination Therapies",
+    "content": "Photodynamic combination therapy (PDT-based combinations), chemotherapy-based combination therapy, and magnetic hyperthermia combination therapy as key strategies for non-invasive embolization-based multimodal treatments.",
+    "keywords": [
+      "photodynamic therapy",
+      "chemotherapy",
+      "magnetic hyperthermia"
+    ]
+  },
+  "original_keywords": [
+    "photodynamic therapy",
+    "chemotherapy",
+    "magnetic hyperthermia"
+  ],
+  "enhanced_keywords": [
+    "Multimodal Combination Therapies",
+    "Photodynamic combination therapy",
+    "PDT-based combinations",
+    "chemotherapy-based combination therapy",
+    "magnetic hyperthermia combination therapy",
+    "non-invasive embolization",
+    "multimodal treatments"
+  ],
+  "abstract_results": [
+    {
+      "index": 2,
+      "text": "标题: Nanomaterial-Based Antivascular Therapy in the Multimodal Treatment of Cancer\n摘要: Abnormal tumor vasculature and a hypoxic tumor microenvironment (TME) limit the effectiveness of conventional cancer treatment.Recent studies have shown that antivascular strategies that focus on antagonizing the hypoxic TME and promoting vessel normalization effectively synergize to increase the antitumor efficacy of conventional therapeutic regimens.By integrating multiple therapeutic agents, well-designed nanomaterials exhibit great advantages in achieving higher drug delivery efficiency and can be used as multimodal therapy with reduced systemic toxicity.In this review, strategies for the nanomaterial-based administration of antivascular therapy combined with other common tumor treatments, including immunotherapy, chemotherapy, phototherapy, radiotherapy, and interventional therapy, are summarized.In particular, the administration of intravascular therapy and other therapies with the use of versatile nanodrugs is also described.This review provides a reference for the development of multifunctional nanotheranostic platforms for effective antivascular therapy in combined anticancer treatments.",
+      "similarity": 0.7632033461246774,
+      "metadata": {},
+      "source_keyword": "chemotherapy",
+      "source_keywords": [
+        "chemotherapy",
+        "photodynamic therapy",
+        "magnetic hyperthermia"
+      ]
+    },
+    {
+      "index": 3,
+      "text": "标题: Recent advances in smart nanoplatforms for tumor non-interventional embolization therapy\n摘要: Tumor embolization therapy has attracted great attention due to its high efficiency in inhibiting tumor growth by cutting off tumor nutrition and oxygen supply by the embolic agent.Although transcatheter arterial embolization (TAE) is the mainstream technique in the clinic, there are still some limitations to be considered, especially the existence of high risks and complications.Recently, nanomaterials have drawn wide attention in disease diagnosis, drug delivery, and new types of therapies, such as photothermal therapy and photodynamic therapy, owing to their unique optical, thermal, convertible and in vivo transport properties.Furthermore, the utilization of nanoplatforms in tumor noninterventional embolization therapy has attracted the attention of researchers.Herein, the recent advances in this area are summarized in this review, which revealed three different types of nanoparticle strategies: (1) nanoparticles with active targeting effects or stimuli responsiveness (ultrasound and photothermal) for the safe delivery and responsive release of thrombin; (2) tumor microenvironment (copper and phosphate, acidity and GSH/H 2 O 2 )-responsive nanoparticles for embolization therapy with high specificity; and (3) peptide-based nanoparticles with mimic functions and excellent biocompatibility for tumor embolization therapy.The benefits and limitations of each kind of nanoparticle in tumor non-interventional embolization therapy will be highlighted.Investigations of nanoplatforms are undoubtedly of great significance, and some advanced nanoplatform systems have arrived at a new height and show potential applications in practical applications.",
+      "similarity": 0.7546097144046726,
+      "metadata": {},
+      "source_keyword": "photodynamic therapy",
+      "source_keywords": [
+        "chemotherapy",
+        "photodynamic therapy",
+        "magnetic hyperthermia"
+      ]
+    },
+    {
+      "index": 0,
+      "text": "标题: Selective Thrombosis of Tumor for Enhanced Hypoxia-Activated Prodrug Therapy\n摘要: Figure 3.In vitro targeting and toxicity of Th-TPZ@MOF-FA.A) CLSM images and 3D confocal fluorescence images and B) flow cytometry analyses of HepG2 cells incubated with Th-TPZ@MOF-PEG (30 mg L -1 ) and Th-TPZ@MOF-FA (30 mg L -1 ) for 4 h: nuclei stained with Hoechst 33342 (Hoechst, blue signal) and nanocarriers labeled by FAM (green signal).Scale bars: 10 m.C) Calcein AM/propidium iodide (PI) staining of HepG2 cells treated with Th-TPZ@MOF-FA (50 mg L -1 ) at different conditions (pH 7.4 and 6.5) under normoxia and hypoxia.Calcein AM: green signal, PI: red signal.Scale bars: 50 m.D) Cell viability of Th-TPZ@MOF-FA at pH 7.4 and 6.5 under normoxic and hypoxic conditions.E) Fluorescein-annexin V and PI staining assays of HepG2 cells treated with different formulations at pH 7.4 and 6.5 under",
+      "similarity": 0.7428913146573806,
+      "metadata": {
+        "journal": "Advanced Materials",
+        "year": "2021",
+        "author": "Ma"
+      },
+      "source_keyword": "chemotherapy",
+      "source_keywords": [
+        "chemotherapy",
+        "photodynamic therapy",
+        "magnetic hyperthermia"
+      ]
+    },
+    {
+      "index": 1,
+      "text": "标题: Biomaterials-Mediated Tumor Infarction Therapy\n摘要: Agents for tumor vascular infarction are recently developed therapeutic agents for the vascular destruction of tumors.They can suppress the progression of the tumor by preventing the flow of nutrition and oxygen to its tissues.Agents of tumor vascular infarction can be divided into three categories according to the differences in their pathways of action: those that use the thrombin-activating pathway, fibrin-activating pathway, and platelet-activating pathway.However, poor targeting ability, low permeation, and potential side-effects restrict the development of the corresponding drugs.Biomaterials can subtly avoid these drawbacks to suppress the tumor.In this article, the authors summarize currently used biomaterials for tumor infarction therapy with the goal of identifying its mechanism, and discuss outstanding deficiencies in methods of this kind.",
+      "similarity": 0.7298739143768124,
+      "metadata": {},
+      "source_keyword": "chemotherapy",
+      "source_keywords": [
+        "chemotherapy",
+        "photodynamic therapy",
+        "magnetic hyperthermia"
+      ]
+    },
+    {
+      "index": 4,
+      "text": "标题: Smart Nanotherapeutic Targeting of Tumor Vasculature\n摘要: The past decades have witnessed the development of a field dedicated to targeting tumor vasculature for cancer therapy.In contrast to conventional chemotherapeutics that need to penetrate into tumor tissues for killing tumor cells, the agents targeting tumor vascular system have two major advantages: direct contact with vascular endothelial cells or the blood and less possibility to induce drug resistance because of high gene stability of endothelial cells.More specifically, various angiogenesis inhibitors (AIs) and vascular disrupting agents (VDAs) that block tumor blood supply to inhibit tumor progression, some of which have been applied clinically, have been described.However, off-target effects and high effective doses limit the utility of these formulations in cancer patients.Thus, new strategies with improved therapeutic efficacy and safety are needed for tumor vessel targeting therapy.With the burgeoning developments in nanotechnology, smart nanotherapeutics now offer unprecedented potential for targeting tumor vasculature.Based on specific structural and functional features of the tumor vasculature, a number of different nanoscale delivery systems have been proposed for cancer therapy.In this Account, we summarize several distinct strategies to modulate tumor vasculature with various smart nanotherapeutics for safe and effective tumor therapy developed by our research programs.Inspired by the blood coagulation cascade, we generated nanoparticle-mediated tumor vessel infarction strategies that selectively block tumor blood supply to starve the tumor to death.By specifically delivering thrombin loaded DNA nanorobots (Nanorobot-Th) into tumor vessels, an intratumoral thrombosis is triggered to induce vascular infarction and, ultimately, tumor necrosis.Mimicking the coagulation cascade, a smart polymeric nanogel achieves permanent and peripheral embolization of liver tumors.Considering the critical role of platelets in maintaining tumor vessel integrity, a hybrid (PLP-D-R) nanoparticle selectively depleting tumor-associated platelets (TAP) to boost tumor vessel permeability was developed for enhancing intratumoral drug accumulation.In addition, benefiting from a better understanding of the molecular and cellular underpinnings of vascular normalization, several tumor acidity responsive nanotherapeutics, encapsulating therapeutic peptides, and small interfering RNA were developed to correct the abnormal features of the tumor vasculature.This made the tumor vessels more efficient for drug delivery.While we are still exploring the mechanisms of action of these novel nanoformulations, we expect that the strategies summarized here will offer a promising platform to design effective next-generation nanotherapeutics against cancer and facilitate the clinical translation of smart nanotherapeutics that target tumor vasculature.",
+      "similarity": 0.7288397883750048,
+      "metadata": {},
+      "source_keyword": "chemotherapy",
+      "source_keywords": [
+        "chemotherapy",
+        "photodynamic therapy",
+        "magnetic hyperthermia"
+      ]
+    }
+  ],
+  "fulltext_results": [
+    {
+      "index": 106,
+      "text": "Compared with traditional therapeutic strategies that target tumor cells, tumor embolization therapy exhibits unique advantages, such as the ability to efficiently induce a large amount of tumor cell death in a short period of time, no requirement for contact between the drug and tumor cells, and reduced drug resistance of tumor cells.With the development of nanotechnology, noninvasive embolization therapy based on the development of nanomaterials has shown the following advantages in overcoming the limitations of clinical transcatheter arterial embolization:",
+      "similarity": 0.8262261192028129,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "Multimodal Combination Therapies",
+        "multimodal treatments",
+        "non-invasive embolization",
+        "magnetic hyperthermia combination therapy",
+        "chemotherapy-based combination therapy"
+      ]
+    },
+    {
+      "index": 171,
+      "text": "Dramatic developments in tumor vascular blocking strategy have been witnessed in the past decades.Although therapy of TAE or anti-vascular agents have been endorsed for clinical trials, they are not currently a front-line treatment alternative.Recent progress in tumor therapy opens up highly promising alternatives for tumor vascular blocking strategies.We summarized the following three aspects: 1) hydrogels, undergoing chemically or physically induced water-gel transition, might physically embolize tumor vascular under the guidance of imaging technology.More importantly, hydrogel based strategy demonstrated lower toxicity and easier operation than solid embolic agents, while it has a stronger embolic effect in comparison with that of liquid embolic agents.Furthermore, by coloading with chemotherapeutic or trackable agents, hydrogel based embolism strategy could be combined with localized chemotherapy or even with real-time monitoring potentials for better theranostic designs; 2) biomaterials with biologically active molecules, including CREKA peptides, thrombin, pNPs, in situ SiO 2 aggregation, could selectively embolize tumor vessels by physical or biological coagulation.It is worth mentioned that this approach can achieve targeted embolization through intravenous injection merely, exhibiting easier delivery option and boarder applicability; 3) nanotechnology-mediated antivascular therapies, including angiogenesis inhibiting, tumor vascular disruption therapy, as well as multifunctional nanoplatforms integrated with chemotherapy, phototherapy, or immunotherapy, could also achieve superior therapeutic outcomes in comparison with monotherapy.",
+      "similarity": 0.811743434395022,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "Multimodal Combination Therapies",
+        "multimodal treatments",
+        "non-invasive embolization",
+        "magnetic hyperthermia combination therapy",
+        "chemotherapy-based combination therapy"
+      ]
+    },
+    {
+      "index": 152,
+      "text": "Embolization has been proposed for clinical treatment for a long time, but the traditional embolic agents have various drawbacks, which hinder the popularization of this treatment strategy in liver cancer treatment.Although in situ hydrogel-mediated transarterial embolization can greatly improve the efficacy of solid tumors such as liver cancer, but it may cause multiple complications and should not be used for cancer of some cavity organs such as bowel and bladder.Furthermore, considering the complexity of the surgical procedure, it is necessary to find a new type of safe and effective biological embolic agent.Compared with in situ hydrogel-mediated transarterial embolization, another hopeful tumor vascular blocking strategy involving nanotherapeutic agents that induce tumor cell death by specifically blocking tumor supply has been proposed.This strategy, which involves targeted embolization through intravenous injection, is expected to be a more promising alternative to transarterial vascular embolization owing to its simple, non-surgical treatment and its applicability to a wider range of tumors.",
+      "similarity": 0.8113328285484237,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 110,
+      "text": "Tumor non-interventional embolization therapy eliminates tumor cells in a unique way, showing great promise.With the boom in the development of nanotechnology, smart nanotherapeutics have offered unprecedented potential for non-interventional embolization therapy.By taking advantage of nanotechnology, it has gradually become a trend to develop targeted non-interventional embolization therapy strategies with good tumor targeting and fewer toxic side effects.In future research, to achieve desirable non-interventional embolization therapy, nanoplatforms can be functionally designed based on the specific structural and functional characteristics of the tumor vasculature and modified with reference to the required medical environment to develop integrated medical embolization biomaterials with different functions or multiple functions.These new medical biomaterials are of great significance to the diagnosis and treatment of different types of tumors.",
+      "similarity": 0.8095431982164178,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 76,
+      "text": "In tumor embolization therapy, the embolic material determines the effect of embolization.The embolization material used in embolization therapy should have the following characteristics: <ref>Nagy, J. Heterogeneity of the tumor vasculature. Semin Thromb Hemost. 2010;36(03):321-331.</ref> no toxicity or side effects; <ref>Holash, J and Wiegand, S and Yancopoulos, G. New model of tumor angiogenesis: dynamic balance between vessel regression and growth mediated by angiopoietins and VEGF. Oncogene. 1999;18(38):5356-5362.</ref> no rejection reaction or good biocompatibility; (3) easy visualization of the operation; and (4) long embolization time and no reopening phenomenon.The development of novel embolic materials is crucial for the further development of embolization therapy.In recent years, with the vigorous development of nanotechnology, nanomaterials have shown great potential in the field of biomedicine due to their unique optical, thermal, magnetic and in vivo transport properties, and they have provided more efficient and safer strategies for tumor treatments <ref>Fan, M. Ultrasmall gold nanoparticles in cancer diagnosis and therapy. Theranostics. 2020;10(11):4944-4957.</ref><ref>Gao, X. Targeting nanoparticles for diagnosis and therapy of bone tumors: opportunities and challenges. Biomaterials. 2020;265:120404.</ref><ref>Zhou, L and Wang, H and Li, Y. Stimuli-responsive nanomedicines for overcoming cancer multidrug resistance. Theranostics. 2018;8(4):1059-1074.</ref>.Nanotechnology offers unprecedented potential for tumor vascular embolization since researchers have used nanotechnology to safely deliver agents with coagulation activity or design responsive nanoplatforms to achieve highly specific embolization of tumor blood vessels.In this review, we summarize the nanoplatforms currently used for tumor non-interventional vascular embolization, mainly including different nanocarriers with the properties of high loading, safe delivery and responsive release of procoagulant substances for tumor non-interventional embolization therapy; different stimuli-responsive nanoparticles for highly specific tumor embolization therapy; and mimic nanomaterials based on peptides for precise embolization (Scheme 1).We will start from the embolization mechanism of various nanoplatforms and explore their important roles in inducing tumor embolization therapy and reducing toxic side effects.In addition, we will further discuss the application prospects and challenges of nanoplatforms in clinical tumor embolization therapy.",
+      "similarity": 0.8042361258578824,
+      "metadata": {},
+      "source_keyword": "non-invasive embolization",
+      "source_keywords": [
+        "non-invasive embolization"
+      ]
+    },
+    {
+      "index": 164,
+      "text": "Chemotherapy drugs are still the most direct and common treatment means for tumor therapy, which can kill tumor peripheral cells with rich blood vessels.Meanwhile, anti-vascular drugs mainly lead to tumor necrosis by inhibiting or destroying tumor blood vessels.The combination of these two therapeutic strategies has also been widely demonstrated to be feasible by many studies, which will be discussed below.",
+      "similarity": 0.7983190222444013,
+      "metadata": {},
+      "source_keyword": "chemotherapy-based combination therapy",
+      "source_keywords": [
+        "Multimodal Combination Therapies",
+        "multimodal treatments",
+        "Photodynamic combination therapy",
+        "chemotherapy-based combination therapy"
+      ]
+    },
+    {
+      "index": 72,
+      "text": "If you are a doctor or part of the healthcare community, this review could speed up the process of finding promising cancer treatments.We believe that chemotherapy and immunotherapy are the most widely used pharmacotherapies for tumors in clinical practice and that chemotherapy may also be the first option when cancer spreads and metastasizes.Chemotherapy with antivascular therapy has been slowly introduced to patients.Their synergistic action improves the efficiency of tumor treatment.Additional efficacy can be brought to various targeting regimens with the combination of immunotherapy and antivascular therapy, which is more likely to be clinically available.This is not just a drug stack; the effects of the drugs in this combination therapy complement one another.However, the effectiveness of a treatment plan can vary based on factors such as patient response, drug interactions, and side effects.For this reason, it is important to consider which antivascular drugs may work better in combination therapy.For example, both sorafenib and bevacizumab can be used as antivascular agents for combination immunotherapy, but bevacizumab has been shown to be superior to sorafenib in prolonging progression-free survival in a phase III clinical trial <ref>[160,</ref><ref>161]</ref>.The combination of nano-and antivascular drugs has entered clinical trials.CRLX101 is a nanoparticle-drug conjugate.In a sequential phase II clinical trial, the team found that CRLX101 in combination with bevacizumab improved the objective response rate in recurrent ovarian cancer <ref>[162]</ref>.In a phase I-IIa clinical trial, CRLX101 in combination with bevacizumab was found to improve progression-free survival in metastatic renal cell carcinoma <ref>[163]</ref>.In a phase III clinical trial, carboplatin-pegylated liposomal doxorubicin-bevacizumab was found to improve overall survival in patients with recurrent ovarian cancer <ref>[164]</ref>.However, most of the research related to nanodrug combination therapy strategies is still in the experimental stage and always meets failure when they are put into clinical trials.In terms of biosafety in human bodies, it is particularly important to monitor the complex tumor microenvironment in real time to assess a variety of characteristics related to treatment resistance.In addition, factors such as big-scale manufacturing as well as batch-to-batch consistency are essentially important for the successful translation of the antivascular nanomedicine from bench to bedside.The research and clinical translation of nanomedicines is both a challenge and an opportunity.In recent years, new intelligent antitumor vascular nanodrugs have made significant scientific progress and will likely play an increasingly important role in tumor treatment in the future.Using multiple methods of synergistic therapy is an indispensable treatment strategy for middle and advanced tumors, and the combination of nanomedicine can improve the efficiency of drug delivery, reduce drug side effects, and improve the efficiency of tumor treatment.With the continuous advancement of technology and the deepening of research, we believe that in the near future, more combinations of nanodrugs and antivascular drugs will enter the clinic setting and that they will achieve more excellent therapeutic effects, achieve the long-term and high-quality survival of tumor patients, and bring more hope and confidence to tumor patients.",
+      "similarity": 0.7936060597866692,
+      "metadata": {},
+      "source_keyword": "chemotherapy-based combination therapy",
+      "source_keywords": [
+        "Multimodal Combination Therapies",
+        "multimodal treatments",
+        "magnetic hyperthermia combination therapy",
+        "chemotherapy-based combination therapy"
+      ]
+    },
+    {
+      "index": 169,
+      "text": "Compared with traditional chemotherapy drugs, cancer photodynamics therapy (PDT) and photothermal therapy (PTT) are representing a promising strategy owning to high selectivity, noninvasiveness, and good applicability. <ref>Luo, Z and Jiang, L and Yang, S and Li, Z and Soh, W and Zheng, L and Loh, X and Wu, Y. Adv. Healthcare Mater. 2019;8:1900406.</ref>Therefore, phototherapy combined with anti-vascular therapy can optimize treatment methods and improve anti-cancer efficiency. <ref>Nam, J and Son, S and Ochyl, L and Kuai, R and Schwendeman, A and Moon, J. Nat. Commun. 2018;9:1074.</ref>For example, Wei et al. assembled sorafenib (AIAs) and photosensitizer chlorin e6 (Ce6) into multifunctional nanoparticles (SC NPs) by reprecipitation method, which integrated AIAs therapy and phototherapy (PDT and PTT) into a treatment strategy. <ref>Wei, Z and Liang, P and Xie, J and Song, C and Tang, C and Wang, Y and Yin, X and Cai, Y and Han, W and Dong, X. Chem. Sci. 2019;10:2778.</ref>A multi-modal anti-vascular therapy about mesoporous silica nanoparticles were proposed for tumor treatment, which loaded two anti-vascular drugs, AIAs (doxycycline) and VDAs (CA4), followed by the GNR and ICG for PDT and PTT, respectively.At the same time, researchers have also demonstrated that responsive controlled nanocarrier self-assembly systems could load antitumor drugs (DAA) to achieve pH-responsive PDT/PTT, in detail, the DMXAA group conjugated to the furyldiketopyrrolopyrrole core (potential photosensitizer) through the diethylaminophenyl unit as the pH-responsive group.DMXAA and the DPP-4 NP can be released in situ from DAA nanoparticles under the specific pH at the site of tumor.The efficiency of cancer treatment was greatly improved, achieving complete tumor ablation in vivo, as shown in Figure 10B. <ref>Liang, P and Huang, X and Wang, Y and Chen, D and Ou, C and Zhang, Q and Shao, J and Huang, W and Dong, X. ACS Nano. 2018;12:11446.</ref>espite organic photothermal nanomaterials mentioned above have applied in PTT of tumor, the poor photothermal effects and limited local accumulation of tumor are barriers preventing broader application.Due to the excellent biocompatibility and good photothermal conversion properties, many gold nanoparticles-based strategies have been explored. <ref>Zhang, Z and Wang, J and Nie, X and Wen, T and Ji, Y and Wu, X and Zhao, Y and Chen, C. J. Am. Chem. Soc. 2014;136:7317.</ref><ref>Jin, J and Ovais, M and Chen, C. Nano Today. 2018;22:83.</ref>114] As a typical example, the anti-VEGF siRNA functionalized AuNP hybrid nanocomponents were designed, as shown in Figure 10A, a specified number of single-stranded RNA was precisely bind to AuNP, and then AuNP with a different amount of RNA was able to create RNAi-AuNP nanocomponents with various geometric shapes through base complementation.Combination of the thermogenic ability of AuNPs and the VEGF gene silencing activity of siRNA therapy achieved the ablation of residual tumors and the therapeutic potential in PC-3 xenograft mice was confirmed. <ref>Son, S and Kim, N and You, D and Yoon, H and Yhee, J and Kim, K and Kwon, I and Kim, S. Theranostics. 2017;7:9.</ref>VDA had the potential to induce the aggregation of gold nanoparticles, for example, Zhang et al. have found that DMXAA could optionally target tumor vasculature and then triggered the coagulation cascade, thereby converting soluble fibrinogen into insoluble gelatinous fibrin in tumor blood vessels(Figure 10C,D), <ref>Song, W and Tang, Z and Zhang, D and Li, M and Gu, J and Chen, X. Chem. Sci. 2016;7:728.</ref> where the AuNPs will form insoluble clots to block the tumor vasculature induced by DMXAA.Subsequently, NIR irradiation further destroyed the tumor microenvironment with light and heat, achieving the combination of VDAs and PTT to enhance the destruction of tumor blood vessels. <ref>Hong, S and Zheng, D and Zhang, C and Huang, Q and Cheng, S and Zhang, X. Sci. Adv. 2020;6:20.</ref>",
+      "similarity": 0.7874922510024452,
+      "metadata": {},
+      "source_keyword": "Photodynamic combination therapy",
+      "source_keywords": [
+        "Photodynamic combination therapy",
+        "PDT-based combinations"
+      ]
+    },
+    {
+      "index": 65,
+      "text": "Vascular therapy combined with phototherapy can elicit anti-angiogenic effects to reverse the increase in VEGF seen after phototherapy, target blood vessels, and alleviate the hypoxic microenvironment of tumors to overcome the insufficient ROS production of PDT therapy.Some vascular targeting strategies can also increase the near-infrared absorption of tumors, enabling PTT to kill tumor cells with less laser energy.",
+      "similarity": 0.785327490707092,
+      "metadata": {},
+      "source_keyword": "Photodynamic combination therapy",
+      "source_keywords": [
+        "Photodynamic combination therapy",
+        "PDT-based combinations"
+      ]
+    },
+    {
+      "index": 63,
+      "text": "Phototherapy for tumors mainly includes photodynamic therapy (PDT) and photothermal therapy (PTT).Studies have shown that the combination with antivascular therapy can overcome the problem of insufficient reactive oxygen species (ROS) production with PDT therapy, and combination PTT therapy can increase the near-infrared absorption of tumors so that PTT therapy can kill tumor cells with less laser energy.Numerous studies have investigated the potential of combining antivascular therapy and phototherapy <ref>Kosharskyy, B and Solban, N and Chang, S and Rizvi, I and Chang, Y and Hasan, T. A Mechanism-Based Combination Therapy Reduces Local Tumor Growth and Metastasis in an Orthotopic Model of Prostate Cancer. Cancer Res. 2006;66:10953-10958. doi:10.1158/0008-5472.CAN-06-1793</ref><ref>Wei, Z and Liang, P and Xie, J and Song, C and Tang, C and Wang, Y and Yin, X and Cai, Y and Han, W and Dong, X. Carrier-free nano-integrated strategy for synergetic cancer anti-angiogenic therapy and phototherapy. Chem. Sci. 2019;10:2778-2784. doi:10.1039/C8SC04123G</ref><ref>Lu, F and Sang, R and Tang, Y and Xia, H and Liu, J and Huang, W and Fan, Q and Wang, Q. Fabrication of a phototheranostic nanoplatform for single laser-triggered NIR-II fluorescence imaging-guided photothermal/chemo/antiangiogenic combination therapy. Acta Biomater. 2022;151:528-536. doi:10.1016/j.actbio.2022.08.013</ref><ref>[100]</ref><ref>[101]</ref><ref>[102]</ref><ref>[103]</ref><ref>[104]</ref><ref>[105]</ref>.Table 3 describes existing strategies combining antivascular therapy and phototherapy and the mechanisms of action of the included antivascular therapies.PDT uses a combination of photosensitizers, light, and oxygen molecules to treat cancer and is widely used in the treatment of various diseases due to its noninvasive characteristics <ref>[119]</ref>.The highly toxic ROS produced by the energy transfer between photosensitizers and molecular oxygen lead to cell death and tumor elimination.The lethality of singlet oxygen in tumors is insufficient, resulting in a high recurrence rate after PDT treatment <ref>[120]</ref>.In addition, tumor hypoxia limits the production of ROS; thus, the therapeutic effect of PDT is limited.Tumor cells that survive PDT produce angiogenic factors and excess glutathione (GSH), deplete the ROS produced during PDT treatment, and impair the killing effect of PDT.These additional factors increase the likelihood of tumor recurrence and metastasis <ref>[119]</ref>.Numerous studies have investigated the potential of combining anti-angiogenic therapy and photodynamic therapy.When bevacizumab was administered after PDT to inhibit neovascularization and reduce the density of microvessels in the tumor, it improved the effectiveness of PDT and significantly inhibited tumor growth and recurrence <ref>[106]</ref>.Min designed multifunctional biomimetic MOF nanoparticles as carriers for PDT reagents and apatinib.In tumor tissue, a layer of MnO 2 deposited on the MOF nanoparticles can react with glutathione to consume excess GSH.When the MnO 2 shell is degraded, apatinib is released to neutralize PDT-induced vascular reconstruction, and this combined strategy improves the efficacy of PDT <ref>[107]</ref>.Eunkyeong Jung designed a fluorescent borate polysaccharide (HA-FBM) nanoparticle that can be heated under laser irradiation to release HBA to inhibit the expression of VEGF, thereby improving the oxygen restriction induced by PDT (Figure 4A PB is activated using near-infrared radiation to strongly attack most cancer cells, and CA4 limits the energy supply; this strategy overcomes inadequate tumor growth suppression due to limited laser penetration depth and provides proof of concept for the \"attack + guard\" strategy (Figure 4C) <ref>[109]</ref>.Zhang designed an MCNCD nanoparticle carrying a nonsteroidal anti-inflammatory drug (celecoxib) to inhibit cyclooxygenase-2 (COX-2) from disrupting the PG2I/TXA2 balance, ultimately inducing intravascular thrombosis and reducing the risk of tumor metastasis after PTT treatment.Furthermore, MCNs have high photothermal conversion efficiency, which enhances the PTT effect [111].Gao's team developed a nanocarrier that uses near-infrared laser activation.After the near-infrared laser irradiation, the local temperature increase of the nanoparticles in the targeted tumor blood vessels causes the instant rupture of tumor vascular ECs, resulting in the destruction of neovascularization.Photothermal therapy and antivascular therapy are fused to induce the avascular necrosis of tumors in this study <ref>[117]</ref>.",
+      "similarity": 0.7788122226751739,
+      "metadata": {},
+      "source_keyword": "Photodynamic combination therapy",
+      "source_keywords": [
+        "Photodynamic combination therapy"
+      ]
+    },
+    {
+      "index": 52,
+      "text": "Pharmaceutics 2023, <ref>15,</ref> x FOR PEER REVIEW 3 of 23 realized DOX release and strong thermochemotherapeutic effects <ref>Mirrahimi, M and Alamzadeh, Z and Beik, J and Sarikhani, A and Mousavi, M and Irajirad, R and Khani, T and Davani, E and Farashahi, A and Ardakani, T. A 2D nanotheranostic platform based on graphene oxide and phase-change materials for bimodal CT/MR imaging, NIR-activated drug release, and synergistic thermo-chemotherapy. Nanotheranostics. 2022;6:350-364. doi:10.7150/ntno.64790</ref>.You developed a nanoplatform modified with Pt (platinum), which acts as a catalyst to continuously break down H2O2 to O2 and relieve hypoxic photodynamic therapy <ref>You, Q and Zhang, K and Liu, J and Liu, C and Wang, H and Wang, M and Ye, S and Gao, H and Lv, L and Wang, C. Persistent Regulation of Tumor Hypoxia Microenvironment via a Bioinspired Pt-Based Oxygen Nanogenerator for Multimodal Imaging-Guided Synergistic Phototherapy. Adv. Sci. 2020;7:1903341. doi:10.1002/advs.201903341</ref>.Lu designed a mesoporous Fe3O4 nanocomposite that improves interventional embolism when used in combination with thermal ablation and multimodal imaging <ref>Lu, D and Chen, M and Yu, L and Chen, Z and Guo, H and Zhang, Y and Han, Z and Xu, T and Wang, H and Zhou, X. Smart-Polypeptide-Coated Mesoporous Fe 3 O 4 Nanoparticles: Non-Interventional Target-Embolization/Thermal Ablation and Multimodal Imaging Combination Theranostics for Solid Tumors. Nano Lett. 2021;21:10267-10278. doi:10.1021/acs.nanolett.1c03340</ref>.Existing oncology treatments, such as chemotherapy, immunotherapy, and phototherapy, are limited.The increase in the IFP limits the delivery of antitumor drugs and their penetration into tumor tissue, and hypoxia reduces the sensitivity of tumor cells to drugs.In addition, the acidic microenvironment of tumors can also damage the cytotoxic function of immune cells <ref>Jain, R. Normalization of Tumor Vasculature: An Emerging Concept in Antiangiogenic Therapy. Science. 2005;307:58-62. doi:10.1126/science.1104819</ref>.Given the limitations of monotherapy, recent studies have focused on combination therapy to enhance anticancer effects.In this review, to provide a reference for the rational design of versatile nanomedicine-based therapies involving antivascular therapy, we systematically summarize the results of the application of different nanoplatforms in combination antivascular therapy regimens and various cancer treatments in recent years.Existing oncology treatments, such as chemotherapy, immunotherapy, and phototherapy, are limited.The increase in the IFP limits the delivery of antitumor drugs and their penetration into tumor tissue, and hypoxia reduces the sensitivity of tumor cells to drugs.In addition, the acidic microenvironment of tumors can also damage the cytotoxic function of immune cells <ref>Jain, R. Normalization of Tumor Vasculature: An Emerging Concept in Antiangiogenic Therapy. Science. 2005;307:58-62. doi:10.1126/science.1104819</ref>.Given the limitations of monotherapy, recent studies have focused on combination therapy to enhance anticancer effects.In this review, to provide a reference for the rational design of versatile nanomedicine-based therapies involving antivascular therapy, we systematically summarize the results of the application of different nanoplatforms in combination antivascular therapy regimens and various cancer treatments in recent years.",
+      "similarity": 0.7735031966205209,
+      "metadata": {},
+      "source_keyword": "Photodynamic combination therapy",
+      "source_keywords": [
+        "Photodynamic combination therapy",
+        "PDT-based combinations"
+      ]
+    },
+    {
+      "index": 62,
+      "text": "Vascular therapy combined with chemotherapy can effectively inhibit blood flow perfusion and decrease the high IFP, which promotes deep infiltration by the chemotherapeutic drugs into tumor tissues, targets tumor blood vessels to induce vessel normalization, prolongs TVN, and increases the delivery efficiency of chemotherapeutic drugs.Antivascular drugs enhance chemotherapy sensitivity by inhibiting hematopoietic pathways.VDAs, in combination with chemotherapeutic drugs, can target different cell populations within the tumor, leading to widespread tumor necrosis.",
+      "similarity": 0.768667306182696,
+      "metadata": {},
+      "source_keyword": "chemotherapy-based combination therapy",
+      "source_keywords": [
+        "chemotherapy-based combination therapy"
+      ]
+    },
+    {
+      "index": 69,
+      "text": "Vascular therapy combined with interventional therapy, such as TAE, can achieve the long-term occlusion of tumor blood vessels and prevent tumor recurrence and metastasis.Anti-angiogenic drugs can also inhibit VEGF overexpression after TAE treatment and improve sensitivity to the heat generated by RFA.",
+      "similarity": 0.7605348283296895,
+      "metadata": {},
+      "source_keyword": "Multimodal Combination Therapies",
+      "source_keywords": [
+        "Multimodal Combination Therapies",
+        "magnetic hyperthermia combination therapy"
+      ]
+    },
+    {
+      "index": 45,
+      "text": "Drzyzga et al. combined vascular infarction therapy and radiotherapy to explore the best delivery conditions to improve treatment <ref>Drzyzga, A and Cicho, T and Czapla, J and Jarosz-Biej, M and Pilny, E and Matuszczak, S. The Proper Administration Sequence of Radiotherapy and Antivascular Agent-DMXAA Is Essential to Inhibit the Growth of Melanoma Tumors. Cancers. 2021;13(16):3924. doi:10.3390/cancers13163924</ref>.Thrombin and chemotherapy drug doxorubicin (Dox) have also been integrated into a single nanocarrier to enable chemotherapy and blood coagulation to work together.This is a feasible and reasonable means of attacking the tumor from different directions, and the two treatments complement each other's advantages to minimize the number of residual tumor cells <ref>Li, S and Zhang, Y and Ho, S.-H and Li, B and Wang, M and Deng, X. Combination of Tumour-Infarction Therapy and Chemotherapy via the Co-delivery of Doxorubicin and Thrombin Encapsulated in Tumour-Targeted Nanoparticles. Nat. Biomed. Eng. 2020;4(7):732-742. doi:10.1038/s41551-020-0573-2</ref>.",
+      "similarity": 0.7597737435250056,
+      "metadata": {},
+      "source_keyword": "PDT-based combinations",
+      "source_keywords": [
+        "PDT-based combinations"
+      ]
+    },
+    {
+      "index": 88,
+      "text": "With further research, different types of drug delivery systems (DDSs) based on organic or inorganic nanomaterials could be applied in loading substances with coagulant activity for tumor embolization therapy.Four main factors should be considered in the design of these DDSs:",
+      "similarity": 0.7588396432639325,
+      "metadata": {},
+      "source_keyword": "PDT-based combinations",
+      "source_keywords": [
+        "PDT-based combinations"
+      ]
+    },
+    {
+      "index": 105,
+      "text": "Polypeptides have inherent bioactivity, biodegradability and biocompatibility, as well as adjustable structure and abundant functions, which exhibit broad prospects in tumor therapy.However, polypeptides often have high susceptibility to proteolysis, and it is necessary to modify the peptide to increase its in vivo stability to better apply it to tumor treatment.",
+      "similarity": 0.7553666207913498,
+      "metadata": {},
+      "source_keyword": "multimodal treatments",
+      "source_keywords": [
+        "multimodal treatments"
+      ]
+    },
+    {
+      "index": 71,
+      "text": "There are also new treatments being developed for cancer.For example, gene therapy refers to the method of treating diseases by using vectors to transduce exogenous therapeutic genes into cells and then altering the original gene expression of cells with the transcription and translation of exogenous genes <ref>[157]</ref>.In addition, tumors can be controlled or treated with hormonal drugs <ref>[158]</ref>.Emerging treatments such as these can bring a new entry point for combination therapy.Nanoplatforms can also provide new ideas for tumor diagnosis.For example, Yang's team reports a structural and molecular fusion magnetic resonance imaging (MRI) nanoprobe for the differential diagnosis of benign and malignant tumors <ref>[159]</ref>.",
+      "similarity": 0.743945967740709,
+      "metadata": {},
+      "source_keyword": "magnetic hyperthermia combination therapy",
+      "source_keywords": [
+        "magnetic hyperthermia combination therapy"
+      ]
+    }
+  ]
+}
